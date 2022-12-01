@@ -1,2 +1,2 @@
-# APIs---What-s-The-Weather
+# APIs-What-s-The-Weather
 Get the weather using OpenWeatherMap API
